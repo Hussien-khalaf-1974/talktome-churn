@@ -1,0 +1,16 @@
+{
+  "model_name": "Logistic Regression",
+  "optimal_threshold": 0.55,
+  "selected_features": [
+    "TotalCharges",
+    "tenure",
+    "Contract_Two year",
+    "MonthlyCharges",
+    "InternetService_Fiber optic",
+    "PaymentMethod_Electronic check",
+    "InternetService_No",
+    "OnlineSecurity",
+    "PaperlessBilling"
+  ],
+  "val_auc": 0.8221
+}
